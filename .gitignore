@@ -1,0 +1,29 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+
+# ChromaDB
+vectordb/
+
+# Generated data
+data/raw/
+data/processed/
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+
+python_docs.json
+vectordb_test/
